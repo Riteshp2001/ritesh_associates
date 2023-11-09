@@ -1,0 +1,14 @@
+{
+  "name": "ritesh_associates",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}

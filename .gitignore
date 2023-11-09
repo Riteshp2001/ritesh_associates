@@ -1,0 +1,9 @@
+# Ignore build and compiled files
+bin/
+obj/
+out/
+node_modules/  # Add this line
+dist/
+build/
+target/
+.cache/
