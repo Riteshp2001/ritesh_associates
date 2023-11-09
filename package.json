@@ -9,6 +9,13 @@
     "parcel": "latest"
   },
   "dependencies": {
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "outlayer": "latest",
+    "get-size": "latest",
+    "desandro-matches-selector": "latest",
+    "fizzy-ui-utils": "latest",
+    "isotope-layout": "latest",
+    "masonry-layout": "latest",
+    "ev-emitter": "latest"
   }
 }
